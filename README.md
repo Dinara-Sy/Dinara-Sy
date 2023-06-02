@@ -8,6 +8,12 @@
   - I have  experience in creating QA Documentation and Automation scripts.<br>
   - I like my work, I like sports and traveling!❤️ </p>
 
+<h2>Education</h2>
+
+<p> - QA Automation Engineer, Silicon Valley.QASV.US <br>
+    - Software Engineer, Ufa State Aviation Technical University </p>
+  
+  
 
 
 <!--
