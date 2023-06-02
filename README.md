@@ -1,6 +1,6 @@
 </div><br>
   <div align="center">
-  <img src="https://chegevara29.ru/wp-content/uploads/2016/03/bug.jpg"style="width:700px">
+  <img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-r8e9KDKUaHk5ktd.jpg"style="width:700px">
     </div>
 <br>
 
