@@ -2,6 +2,9 @@
 <p>Welcome to my page! </br> I'm Dinara, QA Automation Engineer.</p>
 
 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
 <!--
