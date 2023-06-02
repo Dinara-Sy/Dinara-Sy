@@ -5,7 +5,8 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://codepen.io/braydoncoyer)
 <p> I'm Dinara, QA Manual and Automation Engineer. <br> 
   
-  ✌I have  experience in creating QA Documentation and Automation scripts.<br> ❤️ I like my work, I like sports and traveling! </p>
+  - I have  experience in creating QA Documentation and Automation scripts.<br>
+  - I like my work, I like sports and traveling!❤️ </p>
 
 
 
