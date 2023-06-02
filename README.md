@@ -12,7 +12,7 @@
 
 <p> 
   
-  - QA Automation Engineer, Silicon Valley.QASV.US <br> 
+  - QA Automation Engineer, Silicon Valley. QASV.US <br> 
   - Software Engineer, Ufa State Aviation Technical University </p>
   
   
