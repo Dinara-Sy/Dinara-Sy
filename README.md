@@ -1,10 +1,11 @@
+### Hey! Nice to see you.
+
+
 </div><br>
   <div align="center">
-  <img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-r8e9KDKUaHk5ktd.jpg"style="width:700px">
+  <img src=""style="width:700px">
     </div>
 <br>
-
-### Hi there 👋
 
 <!--
 **Dinara-Sy/Dinara-Sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
