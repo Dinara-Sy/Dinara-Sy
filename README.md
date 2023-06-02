@@ -10,8 +10,10 @@
 
 <h2>Education</h2>
 
-<p> - QA Automation Engineer, Silicon Valley.QASV.US <br>
-    - Software Engineer, Ufa State Aviation Technical University </p>
+<p> 
+  
+  - QA Automation Engineer, Silicon Valley.QASV.US <br> 
+  - Software Engineer, Ufa State Aviation Technical University </p>
   
   
 
