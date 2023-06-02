@@ -1,11 +1,8 @@
-### Hey! Nice to see you.
+<h1>### Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br>
 
 
-</div><br>
-  <div align="center">
-  <img src=""style="width:700px">
-    </div>
-<br>
+
 
 <!--
 **Dinara-Sy/Dinara-Sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
