@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://codepen.io/braydoncoyer)
-<p>Welcome to my profile!<br> I'm Dinara, QA Manual and Automation Engineer. <br> 
+<p> I'm Dinara, QA Manual and Automation Engineer. <br> 
   
   ✌I have  experience in creating QA Documentation and Automation scripts.<br> ❤️ I like my work, I like sports and traveling! </p>
 
