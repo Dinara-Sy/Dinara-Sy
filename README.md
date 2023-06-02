@@ -1,5 +1,5 @@
 <h1> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br>
+<p>Welcome to my page! </br> I'm Dinara, QA Automation Engineer.</p>
 
 
 
