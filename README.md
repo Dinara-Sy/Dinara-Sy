@@ -1,4 +1,10 @@
+
+ </div><br>
+  <div align="center">
+  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276216_22-abrakadabra-fun-p-poloski-png-26.png">
+    </div>
 <h1> Hey! Nice to see you.</h1>
+  
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
@@ -17,7 +23,7 @@
   
   </div><br>
   <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU2ZjM4MzdkNDJkMDRkOWQ3N2MzY2EzOGU1ZDExOWFjODYwOGQyNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ryRe2vuYIQ3RQ5eMtY/giphy.gif"style="width:1500px">
+  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276216_22-abrakadabra-fun-p-poloski-png-26.png">
     </div>
   
 
