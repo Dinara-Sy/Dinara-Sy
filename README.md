@@ -1,6 +1,6 @@
 </div><br>
-  <div align="center">
-  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276269_48-abrakadabra-fun-p-poloski-png-55.png"><h1> Hey! Nice to see you.</h1>
+  <div align="center"><h1> Hey! Nice to see you.</h1>
+  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276269_48-abrakadabra-fun-p-poloski-png-55.png">
     </div>
     
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina)
