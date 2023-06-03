@@ -15,6 +15,10 @@
   - QA Automation Engineer, Silicon Valley. QASV.US <br> 
   - Software Engineer, Ufa State Aviation Technical University </p>
   
+  </div><br>
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU2ZjM4MzdkNDJkMDRkOWQ3N2MzY2EzOGU1ZDExOWFjODYwOGQyNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ryRe2vuYIQ3RQ5eMtY/giphy.gif"style="width:1500px">
+    </div>
   
 
 
