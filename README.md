@@ -1,7 +1,6 @@
+<h1> Hey! Nice to see you.</h1>
 </div><br>
-  <div align="right"><h1> Hey! Nice to see you.</h1>
-  <img src="https://baddev.ru/wp-content/uploads/2020/12/bug.jpg.webp">
-    </div>
+  
     
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
@@ -15,8 +14,10 @@
 
 <p> 
   
-  - QA Automation Engineer, Silicon Valley. QASV.US <br> 
+  - QA Automation Engineer, Silicon Valley. QASV.US  <p><img src="https://static.wixstatic.com/media/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png/v1/fill/w_720,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png" alt="Квадрат" width="400" height="300" align="right"></p>
   - Software Engineer, Ufa State Aviation Technical University </p>
+
+
   
  
   
