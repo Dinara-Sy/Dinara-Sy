@@ -1,26 +1,8 @@
-
- </div><br>
-  <div align="center">
-  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276205_39-abrakadabra-fun-p-poloski-png-45.png">
-    </div>
-<h1> Hey! Nice to see you.</h1>
 </div><br>
   <div align="center">
-  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276269_48-abrakadabra-fun-p-poloski-png-55.png">">
+  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276269_48-abrakadabra-fun-p-poloski-png-55.png"><h1> Hey! Nice to see you.</h1>
     </div>
-</div>
-</div><br>
-  <div align="center">
-  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276251_61-abrakadabra-fun-p-poloski-png-68.png">
-    </div>
-</div><br>
-  <div align="center">
-  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276221_62-abrakadabra-fun-p-poloski-png-69.png">
-    </div>
-</div><br>
-  <div align="center">
-  <img src="https://abrakadabra.fun/uploads/posts/2021-12/1639276238_57-abrakadabra-fun-p-poloski-png-64.png">
-    </div>
+    
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://codepen.io/braydoncoyer)
