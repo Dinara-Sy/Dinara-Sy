@@ -1,10 +1,14 @@
 <h1> Hey! Nice to see you.</h1>    
 
+[![Visits Badge](https://badges.pufler.dev/visits/Dinara-Sy/Dinara-Sy)](https:Dinara-Sy.dev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina?igshid=NTc4MTIwNjQ2YQ==)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://web.telegram.org/a/)
-<p> I'm Dinara, QA Manual and Automation Engineer. <br> 
-  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&link=mailto:dinara.sysoliatina@gmail.com)](mailto:dinara.sysoliatina@gmail.com)
+
+
+<p> I'm Dinara, QA Manual and Automation Engineer. <br>
+ 
   - I have  experience in creating QA Documentation and Automation scripts.<br>
   - I like my work, I like sports and traveling!❤️ </p>
 
@@ -20,7 +24,8 @@
   - JavaScript
   - SQL
   - XPath
-  - -Selenium WebDriver
+  - CSS3
+  - Selenium WebDriver
   - Postman API
 
 
