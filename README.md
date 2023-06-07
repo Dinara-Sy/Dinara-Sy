@@ -9,7 +9,7 @@
 <p> I'm Dinara, QA Manual and Automation Engineer. <br>
  
   - I have  experience in creating QA Documentation and Automation scripts.<br>
-  - I like my work, I like sports and traveling!❤️ </p>
+  - I like my job, I like sports and traveling!❤️ </p>
 
 <h2>Education</h2>
 
