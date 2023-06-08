@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</h1> 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/]) <img src="https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg" width="350" height="300" align="right"></h1> 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/]) <img src="https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg" width="300" height="250" align="right"></h1> 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://web.telegram.org/a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&link=mailto:dinara.sysoliatina@gmail.com)](mailto:dinara.sysoliatina@gmail.com)
 
