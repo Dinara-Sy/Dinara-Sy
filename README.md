@@ -1,4 +1,4 @@
-<h1>Hey! Nice to see you. <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png" width="400" height="350" align="right"></h1>  
+<h1>Hey! Nice to see you. <img src="https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg" width="400" height="350" align="right"></h1>  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/]) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://web.telegram.org/a/)
@@ -67,7 +67,9 @@
                                                  
  
  <!--
-  <img src="https://static.wixstatic.com/media/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png/v1/fill/w_720,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png" alt="Квадрат" width="400" height="300" align="right">
+  <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png" width="400" height="350" align="right"></h1>  
+
+https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg
 -->
 
 
