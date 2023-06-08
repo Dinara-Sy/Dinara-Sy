@@ -1,8 +1,6 @@
 <h1>Hey! Nice to see you.</h1>    
 
-[![Visits Badge](https://badges.pufler.dev/visits/Dinara-Sy/Dinara-Sy)](https:Dinara-Sy.dev)  <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png" width="400" height="350" align="right">
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina?igshid=NTc4MTIwNjQ2YQ==)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/])
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/]) <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png" width="400" height="350" align="right">
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://web.telegram.org/a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&link=mailto:dinara.sysoliatina@gmail.com)](mailto:dinara.sysoliatina@gmail.com)
 
@@ -67,7 +65,9 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="30" /> &nbsp;
 </div>
-  
+
+[![Visits Badge](https://badges.pufler.dev/visits/Dinara-Sy/Dinara-Sy)](https:Dinara-Sy.dev)
+                                                 
  
  <!--
   <img src="https://static.wixstatic.com/media/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png/v1/fill/w_720,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png" alt="Квадрат" width="400" height="300" align="right">
@@ -87,4 +87,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://instagram.com/dinara_sysoliatina?igshid=NTc4MTIwNjQ2YQ==)
 -->
