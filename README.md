@@ -15,7 +15,7 @@
 
   - QA Automation Engineer, Silicon Valley. QASV.US  
   - Software Engineer, Ufa State Aviation Technical University </p>
-  <div> <h2>Skills </h2></div>
+  -----------------
   
   <div align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20" /> &nbsp;
