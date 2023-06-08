@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://web.telegram.org/a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&link=mailto:dinara.sysoliatina@gmail.com)](mailto:dinara.sysoliatina@gmail.com)
 
-<p> I'm Dinara, QA Manual and Automation Engineer. <br> <img src="https://static.wixstatic.com/media/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png/v1/fill/w_720,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png" alt="Квадрат" width="350" height="250" align="right">
+<p> I'm Dinara, QA Manual and Automation Engineer. <br> <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png"align="right">
  
   - I have  experience in creating QA Documentation and Automation scripts.<br>
   - I like my job, I like sports and traveling!❤️ </p>
@@ -28,7 +28,7 @@
   - Selenium WebDriver
   - Postman API
 
-
+https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png
   
  <!--
   <img src="https://static.wixstatic.com/media/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png/v1/fill/w_720,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/026e51_ae7d523342b6499e96afc5a7e00917d5~mv2.png" alt="Квадрат" width="400" height="300" align="right">
