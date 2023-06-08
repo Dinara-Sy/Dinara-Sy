@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</h1> 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/]) <img src="https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg" width="300" height="250" align="right"></h1> 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/dinara-sysoliatina/]) <img src="https://i.pinimg.com/originals/b2/c0/5e/b2c05ed0ab835d762abb5cf7b9fd1275.jpg" width="400" height="250" align="right"></h1> 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://web.telegram.org/a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=Gmail&logoColor=white&link=mailto:dinara.sysoliatina@gmail.com)](mailto:dinara.sysoliatina@gmail.com)
 
@@ -66,10 +66,20 @@
 </div>
                                                  
  
- <!--
+ <!-- девушка
   <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png" width="400" height="350" align="right"></h1>  
 
+нарисованный ноут
 https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg
+
+<img src="https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg" width="300" height="250" align="right">
+
+
+смайл в телефоне
+https://i.pinimg.com/originals/b2/c0/5e/b2c05ed0ab835d762abb5cf7b9fd1275.jpg
+
+ноут с кофе
+https://c0.klipartz.com/pngpicture/553/340/gratis-png-computadora-portatil-daum-notebook.png
 -->
 
 
