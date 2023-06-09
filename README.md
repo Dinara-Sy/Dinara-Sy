@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="20" /> &nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20" /> &nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20" /> &nbsp;
-<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="20" /> &nbsp;
+<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="20" /> &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20" /> &nbsp;
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="20" /> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="20" /> &nbsp;
@@ -66,6 +66,16 @@
 </div>
                                                  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <!-- девушка
   <img src="https://gas-kvas.com/uploads/posts/2023-02/1675394347_gas-kvas-com-p-menedzher-art-risunok-20.png" width="400" height="350" align="right"></h1>  
 
@@ -74,6 +84,7 @@ https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/stan
 
 <img src="https://haya-online.com/media/cache/wp_article_main_cover_photo/uploads/cms/standalone-content/thumbnail/5c7dab26a8d28747314919.jpeg" width="300" height="250" align="right">
 
+<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="20" /> &nbsp;
 
 смайл в телефоне
 <img src="https://i.pinimg.com/originals/b2/c0/5e/b2c05ed0ab835d762abb5cf7b9fd1275.jpg" width="400" height="250" align="right">
